@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Atualmente trabalhando em um projeto pessoal para automação de tarefas realizadas em Assistência Técnica de dispositivos Linux Embarcados.<br>📝 Estou aprendendo desenvolvimento de scripts Bash e Python, monitoramento, administração e automação de sistemas Linux.<br>🛠️ Tenho uma boa experiência profissional em Eletrônica com mais de 5 anos atuando com dispositivos de baixa tensão.<br>💡 Sempre em busca de me tornar um profissional ainda mais capacitado me atualizando nas emergentes tecnologias do mercado.</p>
+<p align="left">💻 Atualmente trabalhando em um projeto pessoal para automação de tarefas realizadas em Assistência Técnica de dispositivos Linux Embarcado.<br>📝 Estou aprendendo desenvolvimento de scripts Bash e Python, monitoramento, administração e automação de sistemas Linux.<br>🛠️ Tenho uma boa experiência profissional em Eletrônica com mais de 5 anos atuando com dispositivos de baixa tensão.<br>💡 Sempre em busca de me tornar um profissional ainda mais capacitado me atualizando nas emergentes tecnologias do mercado.</p>
 
 ###
 
